@@ -8,3 +8,7 @@ Go 副本讲解  https://colobu.com/2017/01/05/-T-or-T-it-s-a-question/
 SSH简单讲解  http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html
 
 Go regex（正则） https://zhuanlan.zhihu.com/p/50398448
+
+CAP 理论十二年回顾："规则"变了：https://www.infoq.cn/article/cap-twelve-years-later-how-the-rules-have-changed
+
+区块链不可能三角为什么不可突破：https://www.jianshu.com/p/0d26b9ac94f0
